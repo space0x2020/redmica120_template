@@ -1,0 +1,15 @@
+# type=d --ignore=.git --ignore=.timestamps.txt
+202012042224.27 db/Dockerfile
+202102151820.09 db/
+202102151838.39 docker-compose.yml
+202102151842.23 redmine/Dockerfile
+202102151836.29 redmine/config/configuration.yml
+202011181010.10 redmine/config/configuration.yml.example
+202102151842.39 redmine/config/
+202101070858.54 redmine/docker-entrypoint.sh
+202101071539.31 redmine/entry_point-donothing.sh
+202102151604.36 redmine/entry_point.sh
+202102151842.43 redmine/
+202102151837.43 volumes/files/
+202102151837.43 volumes/plugins/
+202102151837.43 volumes/
